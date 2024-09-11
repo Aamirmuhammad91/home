@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.e6b99929.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/aamir_muhammad.jpg": "/home/static/media/aamir_muhammad.b2c26282a60abfe2e3e8.jpg",
+    "static/media/Aamir-Curriculum-Vitae.pdf": "/home/static/media/Aamir-Curriculum-Vitae.d20ddb2e97294eb67d13.pdf",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.e6b99929.js.map": "/home/static/js/main.e6b99929.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.e6b99929.js"
+  ]
+}
