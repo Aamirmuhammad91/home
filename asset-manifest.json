@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.e6b99929.js",
+    "main.js": "/home/static/js/main.7a4bf209.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/aamir_muhammad.jpg": "/home/static/media/aamir_muhammad.b2c26282a60abfe2e3e8.jpg",
-    "static/media/Aamir-Curriculum-Vitae.pdf": "/home/static/media/Aamir-Curriculum-Vitae.d20ddb2e97294eb67d13.pdf",
+    "static/media/Aamir-Curriculum-Vitae.pdf": "/home/static/media/Aamir-Curriculum-Vitae.3266f0ea2dbbec945b05.pdf",
+    "static/media/aamir_muhammad_900.png": "/home/static/media/aamir_muhammad_900.6cc73a70f655257c36d3.png",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.e6b99929.js.map": "/home/static/js/main.e6b99929.js.map",
+    "main.7a4bf209.js.map": "/home/static/js/main.7a4bf209.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.e6b99929.js"
+    "static/js/main.7a4bf209.js"
   ]
 }
