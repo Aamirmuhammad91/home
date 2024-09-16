@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: 'About Me',
-  imageLink: require('../editable-stuff/aamir_muhammad.jpg'),
+  imageLink: require('../editable-stuff/aamir_muhammad_900.png'),
   imageSize: 350,
   message:
     'My name is Aamir Muhammad. I’m a graduate of 2021 from Frankfurt University of Applied Sciences with a degree in Information Technology. I am a full-stack web developer with over 4 years of experience in application development. Currently, I work with the Data Science and Digital Libraries Research Group on the Terminology Service project, where we have developed tools for Ontology Mappings, Semantic Search, and Annotation Services.',
@@ -68,12 +68,12 @@ const leadership = {
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.',
   images: [
     {
-      img: require('../editable-stuff/aamir_muhammad.jpg'),
+      img: require('../editable-stuff/aamir_muhammad_900.png'),
       label: 'First slide label',
       paragraph: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
     },
     {
-      img: require('../editable-stuff/aamir_muhammad.jpg'),
+      img: require('../editable-stuff/aamir_muhammad_900.png'),
       label: 'Second slide label',
       paragraph: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
     },
@@ -89,12 +89,14 @@ const skills = {
   show: true,
   heading: 'Skills',
   hardSkills: [
+    { name: 'JavaScript', value: 75 },
     { name: 'Python', value: 70 },
-    { name: 'SQL', value: 75 },
+    { name: 'React', value: 85 },
     { name: 'Data Structures', value: 85 },
-    { name: 'JavaScript', value: 90 },
-    { name: 'React', value: 65 },
-    { name: 'HTML/CSS', value: 55 },
+    { name: 'PostgresSQL', value: 70 },
+    { name: 'Java', value: 65 },
+    { name: 'Ansible', value: 60 },
+    { name: 'Docker', value: 80 },
   ],
   softSkills: [
     { name: 'Goal-Oriented', value: 80 },
@@ -104,7 +106,7 @@ const skills = {
     { name: 'Problem Solving', value: 75 },
     { name: 'Empathy', value: 90 },
     { name: 'Organization', value: 70 },
-    { name: 'Creativity', value: 90 },
+    { name: 'Creativity', value: 80 },
   ],
 };
 
